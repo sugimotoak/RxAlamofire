@@ -419,7 +419,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "RxSwiftCommunity.RxAlamofire.RxAlamofire-iOS";
 				PRODUCT_NAME = RxAlamofire;
 				SKIP_INSTALL = YES;
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
@@ -443,7 +443,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "RxSwiftCommunity.RxAlamofire.RxAlamofire-iOS";
 				PRODUCT_NAME = RxAlamofire;
 				SKIP_INSTALL = YES;
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
